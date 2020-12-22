@@ -11,7 +11,7 @@ function App() {
     <HashRouter>
       <Switch>
         <Route path="/" exact component={Menubar} />
-        <Route path="/page1" component={Page1} />
+        <Route path="/page11" component={Page1} />
         <Route path="/page2" component={Page2} />
         {/* <Route component={Error} /> */}
       </Switch>
